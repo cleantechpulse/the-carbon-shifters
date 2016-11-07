@@ -1,3 +1,13 @@
+To build and edit the site locally:
+
+ - git clone https://github.com/ericscheier/the-carbon-shifters.git
+ - cd the-carbon-shifters
+ - gem install jekyll bundler [requires having ruby installed]
+ - bundle exec jekyll serve
+ 
+The site is currently just a public domain theme with many of the features you may want (about page, toolbar, styling, etc.). I'm sure we'll change a lot of it. Documentation for the theme itself is below:
+
+
 Solid. A Bootstrap theme for Jekyll.
 ============
 ![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
